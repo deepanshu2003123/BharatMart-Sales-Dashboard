@@ -37,3 +37,9 @@ Management wanted a dashboard to understand:
 - Technology category leads with 66% of total sales
 - Consumer segment generates 49% of revenue
 - 48% YOY sales growth from 2022 to 2024
+
+- ## Dashboard Screenshots
+![Sales Overview](Screenshot 2026-04-11 123517.png)
+![Product Analysis](Screenshot 2026-04-11 123456.png)
+![Customer Analysis](Screenshot 2026-04-10 225619.png)
+![Time Intelligence](Screenshot 2026-04-10 225553.png)
